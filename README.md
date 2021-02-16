@@ -15,7 +15,7 @@ Themes For OpenCore v0.6.6
 
 ## Preview
 #### Big Sur
-![Big-Sur](https://github.com/LuckyCrack/OpenCore-Themes/blob/main/Preview-BS.png =1920x1080)
+![Big-Sur](https://github.com/LuckyCrack/OpenCore-Themes/blob/main/Preview-BS.png)
 
 #### Dark
 
