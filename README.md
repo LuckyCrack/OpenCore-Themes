@@ -9,7 +9,7 @@ Themes For OpenCore v0.6.6
 * Dark
 
 ### Download
-* Head to [Release]() page. 
+* Head to [Release](https://github.com/LuckyCrack/OpenCore-Themes/releases/tag/v1) page. 
 
 ### Setup
 * Replace EFI > OC > Resources 
