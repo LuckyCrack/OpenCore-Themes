@@ -15,6 +15,7 @@ Themes For OpenCore v0.6.6
 
 ## Preview
 #### Big Sur
+![](./pic/pic1_50.png =100x20)
 
 #### Dark
 
