@@ -14,8 +14,9 @@ Themes For OpenCore v0.6.6
 * Misc > Boot > PickerVariant: Auto
 
 ## Preview
-#### Big Sur
+### Big Sur
 ![Big-Sur](https://github.com/LuckyCrack/OpenCore-Themes/blob/main/Preview-BS.png)
 
-#### Dark
+### Dark
+![Dark](https://github.com/LuckyCrack/OpenCore-Themes/blob/main/Preview-D.png)
 
