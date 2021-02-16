@@ -8,6 +8,9 @@ Themes For OpenCore v0.6.6
 * Big Sur
 * Dark
 
+### Download
+* Head to [Release]() page. 
+
 ### Setup
 * Replace EFI > OC > Resources 
 ### config.plist
