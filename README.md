@@ -20,3 +20,4 @@ Themes For OpenCore v0.6.6
 ### Dark
 ![Dark](https://github.com/LuckyCrack/OpenCore-Themes/blob/main/Preview-D.png)
 
+#### Working On More Themes
