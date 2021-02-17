@@ -26,7 +26,7 @@ Themes For OpenCore v0.6.6
 ![Dark](https://github.com/LuckyCrack/OpenCore-Themes/blob/main/Preview-D.png)
 
 ### Big Sur Dark
-![Big-Sur-Dark](https://github.com/LuckyCrack/OpenCore-Themes/blob/main/Preview-BS-D.png)
+![Big-Sur-Dark](https://github.com/LuckyCrack/OpenCore-Themes/blob/main/Preview-BS.png)
 
 ### Light
 ![Light](https://github.com/LuckyCrack/OpenCore-Themes/blob/main/Preview-L.png)
