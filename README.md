@@ -7,6 +7,8 @@ Themes For OpenCore v0.6.6
 ## Themes Included
 * Big Sur
 * Dark
+* Big Sur - Dark Icons
+* Light
 
 ### Download
 * Head to [Release](https://github.com/LuckyCrack/OpenCore-Themes/releases/tag/v1) page. 
@@ -22,5 +24,11 @@ Themes For OpenCore v0.6.6
 
 ### Dark
 ![Dark](https://github.com/LuckyCrack/OpenCore-Themes/blob/main/Preview-D.png)
+
+### Big Sur Dark
+![Big-Sur-Dark](https://github.com/LuckyCrack/OpenCore-Themes/blob/main/Preview-BS-D.png)
+
+### Light
+![Light](https://github.com/LuckyCrack/OpenCore-Themes/blob/main/Preview-L.png)
 
 #### Working On More Themes
