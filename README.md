@@ -31,4 +31,4 @@ Themes For OpenCore v0.6.6
 ### Light
 ![Light](https://github.com/LuckyCrack/OpenCore-Themes/blob/main/Preview-L.png)
 
-#### Working On More Themes
+#### More Themes Soon
