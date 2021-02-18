@@ -9,6 +9,8 @@ Themes For OpenCore v0.6.6
 * Dark
 * Big Sur - Dark Icons
 * Light
+
+## Custom Icons Included
 * Linux icon (Dark/Light)
 
 ### Download
