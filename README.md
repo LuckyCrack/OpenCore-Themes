@@ -9,12 +9,22 @@ Themes For OpenCore v0.6.6
 * Dark
 * Big Sur - Dark Icons
 * Light
+* Linux icon (Dark/Light)
 
 ### Download
 * Head to [Release](https://github.com/LuckyCrack/OpenCore-Themes/releases/tag/v1) page. 
 
 ### Setup
 * Replace EFI > OC > Resources 
+
+### Custom Icon Setup
+*  Misc > Boot > PickerAttribute: 1
+*  Place the icon in the root of the Drive
+*  Rename it to ".VoumeIcon.icns"
+-  For APFS file systems 
+   * Mount "Preboot" and add the ".VoumeIcon.icns"
+* More Info [Here](https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Configuration.pdf)
+
 ### config.plist
 * Misc > Boot > PickerVariant: Auto
 
