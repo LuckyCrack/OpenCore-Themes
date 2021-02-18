@@ -25,7 +25,7 @@ Themes For OpenCore v0.6.6
 *  Rename it to ".VoumeIcon.icns"
 -  For APFS file systems 
    * Mount "Preboot" and add the ".VoumeIcon.icns"
-* More Info [Here](https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Configuration.pdf)
+* More Info [Here](https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Configuration.pdf) See Section 8.3 Boot Properties > 6. PickerAttributes
 
 ### config.plist
 * Misc > Boot > PickerVariant: Auto
