@@ -24,7 +24,7 @@ Themes For OpenCore v0.6.6
 *  Place the icon(eg. Linux-Dark.icns) in the Root Directory of the Drive
 *  Rename it to ".VoumeIcon.icns"
 -  For APFS file systems 
-   * Mount "Preboot" and add the ".VoumeIcon.icns"
+   * Mount "Preboot" and add the ".VoumeIcon.icns" at Preboot volume in per-volume directory (/System/Volumes/Preboot/{GUID}/ when mounted at default location within macOS)
 * More Info [Here](https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Configuration.pdf) See Section 8.3 Boot Properties > 6. PickerAttributes
 
 ### config.plist
