@@ -21,7 +21,7 @@ Themes For OpenCore v0.6.6
 
 ### Custom Icon Setup
 *  Misc > Boot > PickerAttribute: 1
-*  Place the icon(eg. Linux-Dark.icns) in the root of the Drive
+*  Place the icon(eg. Linux-Dark.icns) in the Root Directory of the Drive
 *  Rename it to ".VoumeIcon.icns"
 -  For APFS file systems 
    * Mount "Preboot" and add the ".VoumeIcon.icns"
