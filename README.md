@@ -20,7 +20,7 @@ Themes For OpenCore v0.6.6
 * Linux icons (Dark/Light/Sharp/Smooth)
 
 ### Download
-* Head to [Release](https://github.com/LuckyCrack/OpenCore-Themes/releases/tag/v1) page. 
+* Head to [Release](https://github.com/LuckyCrack/OpenCore-Themes/releases/tag/v1.2) page. 
 
 ### Setup
 * Replace EFI > OC > Resources 
