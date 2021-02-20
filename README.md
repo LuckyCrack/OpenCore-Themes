@@ -17,7 +17,7 @@ Themes For OpenCore v0.6.6
 * DarkSmooth - B
 
 ## Custom Icons Included
-* Linux icon (Dark/Light)
+* Linux icons (Dark/Light/Sharp/Smooth)
 
 ### Download
 * Head to [Release](https://github.com/LuckyCrack/OpenCore-Themes/releases/tag/v1) page. 
