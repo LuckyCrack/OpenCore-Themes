@@ -62,7 +62,7 @@ Themes For OpenCore v0.6.6
 ![Smooth](https://github.com/LuckyCrack/OpenCore-Themes/blob/main/Preview-SM-D.png)
 
 ### Sharp - B
-![Sharp](https://github.com/LuckyCrack/OpenCore-Themes/blob/main/Preview-S-D.png)
+![Sharp](https://github.com/LuckyCrack/OpenCore-Themes/blob/main/Preview-S-B.png)
 
 ### Smooth - B
 ![Smooth](https://github.com/LuckyCrack/OpenCore-Themes/blob/main/Preview-SM-B.png)
