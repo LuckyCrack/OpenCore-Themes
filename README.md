@@ -49,4 +49,28 @@ Themes For OpenCore v0.6.6
 ### Light
 ![Light](https://github.com/LuckyCrack/OpenCore-Themes/blob/main/Preview-L.png)
 
+### Sharp
+![Sharp](https://github.com/LuckyCrack/OpenCore-Themes/blob/main/Preview-S.png)
+
+### Smooth
+![Smooth](https://github.com/LuckyCrack/OpenCore-Themes/blob/main/Preview-SM.png)
+
+### Sharp Dark
+![Sharp](https://github.com/LuckyCrack/OpenCore-Themes/blob/main/Preview-S-D.png)
+
+### Smooth Dark
+![Smooth](https://github.com/LuckyCrack/OpenCore-Themes/blob/main/Preview-SM-D.png)
+
+### Sharp - B
+![Sharp](https://github.com/LuckyCrack/OpenCore-Themes/blob/main/Preview-S-D.png)
+
+### Smooth - B
+![Smooth](https://github.com/LuckyCrack/OpenCore-Themes/blob/main/Preview-SM-B.png)
+
+### DarkSharp - B
+![Sharp](https://github.com/LuckyCrack/OpenCore-Themes/blob/main/Preview-S-B-D.png)
+
+### DarkSmooth - B
+![Smooth](https://github.com/LuckyCrack/OpenCore-Themes/blob/main/Preview-SM-B-D.png)
+
 #### More Themes Soon
