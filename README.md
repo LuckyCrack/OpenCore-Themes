@@ -12,8 +12,9 @@ Themes For OpenCore v0.6.6
 * Sharp (Dark/Light)
 * Smooth (Dark/Light)
 * Sharp - B
-* Smooth -B
-* 
+* Smooth - B
+* DarkSharp - B
+* DarkSmooth - B
 
 ## Custom Icons Included
 * Linux icon (Dark/Light)
