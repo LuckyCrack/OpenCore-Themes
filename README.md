@@ -73,4 +73,4 @@ Themes For OpenCore v0.6.6
 ### DarkSmooth - B
 ![Smooth](https://github.com/LuckyCrack/OpenCore-Themes/blob/main/Preview-SM-B-D.png)
 
-#### More Themes Soon
+
