@@ -1,5 +1,5 @@
 # OpenCore-Themes
-Themes For OpenCore v0.6.6
+Themes For OpenCore v0.6.x
 
 - Thanks to [chris1111](https://github.com/chris1111/) for Icnspack-Builder
 - Thanks to [OpenCore Team](https://github.com/acidanthera/OpenCorePkg) for OpenCore
